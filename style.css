@@ -1,0 +1,20 @@
+.container{
+    margin-top: 2em;
+}
+label {
+    margin-right: 1em;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 2em;
+}
+tfoot {color:#383d41;background:#e2e3e5}
+
+.totalform {
+    width:40%
+}
+.dates {
+    position: relative;
+}
+#openup{
+    cursor: pointer;
+}
